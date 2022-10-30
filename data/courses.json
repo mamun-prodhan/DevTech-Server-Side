@@ -1,7 +1,7 @@
 [
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "category_id": "01",
+      "course_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "enrolled": 488,
       "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
@@ -16,7 +16,7 @@
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "category_id": "02",
+      "course_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "enrolled": 488,
       "title": "Learn HTML From Zero to Expart",
@@ -32,7 +32,7 @@
 
     {
       "_id": "f69a695f037cd9484cecaea37ca71011",
-      "category_id": "03",
+      "course_id": "03",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "enrolled": 400,
       "title": "CSS - The Complete Guide 2022",
@@ -47,7 +47,7 @@
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
-      "category_id": "04",
+      "course_id": "04",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "enrolled": 400,
       "title": "Master Bootstrap 5 with 6 projects",
@@ -63,7 +63,7 @@
 
     {
       "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": "05",
+      "course_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "enrolled": 980,
       "title": "React - The Complete Guide",
@@ -78,7 +78,7 @@
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f0",
-      "category_id": "06",
+      "course_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "enrolled": 980,
       "title": "Firebase In Depth",
