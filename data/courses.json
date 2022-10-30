@@ -1,0 +1,94 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enrolled": 488,
+      "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+      "teacher": {
+        "name": "Jimmy Dane",
+        "last_update": "August 24, 2022",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://248006.selcdn.ru/LandGen/phone_9ff3a237ec201e9eb1a5ce44468857e1c0d63aa6.png",
+      "image_url": "https://vietnix.vn/wp-content/uploads/2021/07/lich-su-javascript.webp",
+      "details": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one! Become an advanced, confident, and modern JavaScript developer from scratch. Become job-ready by understanding how JavaScript really works behind the scenes. JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc. Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc. Build 6 beautiful real-world projects for your portfolio (not boring toy apps)"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enrolled": 488,
+      "title": "Learn HTML From Zero to Expart",
+      "teacher": {
+        "name": "Jimmy Dane",
+        "last_update": "July 14, 2022",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg",
+      "image_url": "https://lifewithdata.com/wp-content/uploads/2022/10/html_logo.png",
+      "details": "You've made an excellent choice. The road to web development, among other disciplines, begins with HTML. HTML, or Hyper Text Markup Language, is a building block to developing effective web pages. Before the additional layers of web development are implemented (CSS, JavaScript, etc.) HTML informs the web browser of the structure of the page and content to display to the visitors of the page. Without HTML, the web browsers such as Chrome, IE, FireFox and Safari, wouldn't know what to do and how to present your content to the viewer. Search Engines, like Google, rely on HTML to index a page in their search results. By using HTML properly you will not only inform the search engines of the importance of your content but you also inform the browser and the viewers of your page."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "03",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "enrolled": 400,
+      "title": "CSS - The Complete Guide 2022",
+      "teacher": {
+        "name": "Jennifer Wood",
+        "last_update": "June 22, 2022",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg",
+      "image_url": "https://og-image-react-egghead.vercel.app/topic/flexbox?orientation=landscape&v=20201105",
+      "details": "Join this bestselling CSS course to learn all about CSS from the ground up, in great depth! This course covers it all - we start at the very basics (What is CSS? How does it work? How do you use it)? and gradually dive in deeper and deeper. And we do this by showing both practical examples as well as the theory behind it. Getting started with CSS might look easy but there actually is a lot of depth to CSS - hence this course provides different Tracks or Entry points to exactly meet your demands and reflect you current knowledge level. Of course this course offers the theory and practical examples - we'll build an entire real course project throughout the course - but there also are multiple assignments, quizzes and challenges for you to practice individual concepts taught throughout the course."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "category_id": "04",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "enrolled": 400,
+      "title": "Master Bootstrap 5 with 6 projects",
+      "teacher": {
+        "name": "Jennifer Wood",
+        "last_update": "October 26, 2022",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://blog.getbootstrap.com/assets/img/2022/07/bootstrap-guides@2x.png",
+      "image_url": "https://assets.ithillel.ua/images/blog/cover/_transform_blogSplash_desktop_2x/Hillel-Blog-BootstrapCssGrid.jpg",
+      "details": "Bootstrap - the world's most popular front-end frameworks! This course covers all the different parts of the latest version of the world's most popular front-end framework, Bootstrap 5.1.1 from September 7, 2021. Bootstrap has been used on millions of websites around the world and have been carefully developed to cover a wide range of typical user interfaces. Web pages built with Bootstrap 5 works across all kinds of devices, browsers and screen sizes while also taking care of accessibility and a clean and modern design. This course is for the beginner who want to learn Bootstrap 5 from the bottom up. It goes through all the different parts, but each lecture can be watched independently."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enrolled": 980,
+      "title": "React - The Complete Guide",
+      "teacher": {
+        "name": "system",
+        "last_update": "May 21, 2022",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/social/reactt-dark_1200x628.png?sfvrsn=19de8226_2",
+      "image_url": "https://images.ctfassets.net/aq13lwl6616q/2gqVi4hhjq9vgvdh63UoKZ/c763c6f7e98a80eb2800bbe5eb9d690d/react_native_zero_to_mastery.png",
+      "details": "This course is fully up-to-date with React 18 (the latest version of React)! It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know! This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well. You'll get all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge that is skipped by most other resources - after all, there is a reason why this course is that huge. This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "enrolled": 980,
+      "title": "Firebase In Depth",
+      "teacher": {
+        "name": "system",
+        "last_update": "January 24, 2022",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://miro.medium.com/max/1024/0*kFiVPo9jXa8W75aF.png",
+      "image_url": "https://images.viblo.asia/984d98f6-ecf4-46cf-9d94-ed256fa219a6.png",
+      "details": "If you are looking for the best backend to go along with your Angular frontend, then the Firebase ecosystem (with the Firestore NoSQL database) is the right choice for you. Today, it's simpler than ever to develop Firebase applications thanks to the latest Firebase development tools, including the awesome local emulator (covered in detail in the course). Firebase allows us to build applications in a mostly serverless way, in the sense that when using it we only have to write a little bit of server-side code, if any at all in a lot of cases. With Firebase, we can not only query our database but also do data modification operations straight from the browser, in a secure way. So how is this possible? The way that this works is that the Firestore database enables us to declaratively accept or deny incoming requests using Firestore Security Rules."
+    }
+]
