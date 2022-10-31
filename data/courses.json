@@ -4,14 +4,14 @@
       "course_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "enrolled": 488,
-      "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+      "title": "JavaScript Course 2022",
       "teacher": {
         "name": "Jimmy Dane",
         "last_update": "August 24, 2022",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://248006.selcdn.ru/LandGen/phone_9ff3a237ec201e9eb1a5ce44468857e1c0d63aa6.png",
-      "image_url": "https://vietnix.vn/wp-content/uploads/2021/07/lich-su-javascript.webp",
+      "image_url": "https://www.sosdigital.com.br/wp-content/uploads/2021/02/5-Caracteristicas-do-javascript-que-todo-programador-deveria-conhecer.png",
       "details": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one! Become an advanced, confident, and modern JavaScript developer from scratch. Become job-ready by understanding how JavaScript really works behind the scenes. JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc. Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc. Build 6 beautiful real-world projects for your portfolio (not boring toy apps)"
     },
     {
@@ -19,7 +19,7 @@
       "course_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "enrolled": 488,
-      "title": "Learn HTML From Zero to Expart",
+      "title": "Learn HTML 2022",
       "teacher": {
         "name": "Jimmy Dane",
         "last_update": "July 14, 2022",
@@ -35,7 +35,7 @@
       "course_id": "03",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "enrolled": 400,
-      "title": "CSS - The Complete Guide 2022",
+      "title": "Complete CSS Guide",
       "teacher": {
         "name": "Jennifer Wood",
         "last_update": "June 22, 2022",
@@ -50,7 +50,7 @@
       "course_id": "04",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "enrolled": 400,
-      "title": "Master Bootstrap 5 with 6 projects",
+      "title": "Master Bootstrap 5",
       "teacher": {
         "name": "Jennifer Wood",
         "last_update": "October 26, 2022",
@@ -66,7 +66,7 @@
       "course_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "enrolled": 980,
-      "title": "React - The Complete Guide",
+      "title": "Learn React 2022",
       "teacher": {
         "name": "system",
         "last_update": "May 21, 2022",
