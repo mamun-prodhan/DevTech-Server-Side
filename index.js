@@ -23,11 +23,11 @@ app.get('/courses/:id', (req, res) =>{
     res.send(selectedCourses);
 })
 
-// app.get('/details/:id', (req, res) =>{
-//     const id = req.params.id;
-//     const courseDetails = courses.find( course => course._id === id);
-//     res.send(courseDetails);
-// })
+app.get('/details/:id', (req, res) =>{
+    const id = req.params.id;
+    const courseDetails = courses.find( course => course._id === id);
+    res.send(courseDetails);
+})
 
 
 
