@@ -11,8 +11,6 @@ app.get('/', (req, res) =>{
     res.send('Course API Running');
 });
 
-
-
 app.get('/courses', (req, res) => {
     res.send(courses);
 })
@@ -28,10 +26,6 @@ app.get('/details/:id', (req, res) =>{
     const courseDetails = courses.find( course => course._id === id);
     res.send(courseDetails);
 })
-
-
-
-
 app.listen(port, () =>{
     console.log('Course server running on port', port);
 })
